@@ -1,0 +1,9 @@
+Salamander Grand Piano V3
+Muestras de piano de cola Yamaha C5 grabadas por Alexander Holm.
+Licencia: Creative Commons Attribution 3.0 (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
+
+Origen: https://archive.org/details/SalamanderGrandPianoV3
+Esta copia: subconjunto en MP3 (una nota de cada tres semitonos, de La0 a Do8)
+tal como la distribuye Tone.js (https://tonejs.github.io/audio/salamander/).
+Cambios: ninguno respecto a esa versión en MP3.
